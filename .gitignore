@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__
+*.reload
+*.log
+# *.xml
+*.pyc
+*.iml
+run/
+.idea/
+venv/
+
