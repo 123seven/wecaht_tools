@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/language-python-orange.svg)
 ![](https://img.shields.io/cocoapods/l/Alamofire.svg?style=flat)  
 
-微信(WeChat) 第三方 Python SDK 实现。
+微信(WeChat)  Python 工具包。
 
 ## 功能特性
 
